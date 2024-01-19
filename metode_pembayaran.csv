@@ -1,0 +1,2350 @@
+category,payment_gateway,image,title,conntent
+PEMBAYARAN INSTAN,Jenius,https://payment.tiketux.com/image/payment_v2/jenius-3.png,CARA PEMBAYARAN MENGGUNAKAN Jenius,"<li>
+                               Anda harus terdaftar sebagai pengguna <b>Jenius</b> dan memiliki aplikasi <b>Jenius</b> pada smartphone anda. 
+                              </li>
+                                                            <li>
+                               Aplikasi <b>Jenius</b> dapat diunduh di Apple Store / Google Play Store 
+                              </li>
+                                                            <li>
+                               Anda akan diarahkan ke halaman pembayaran <b>Jenius.</b> 
+                              </li>
+                                                            <li>
+                               Masukkan <b>$Cashtag</b> lalu tekan tombol <b>BAYAR</b> 
+                              </li>
+                                                            <li>
+                               Klik Notifikasi dari Jenius atau Buka Aplikasi Jenius, pilih menu Notifikasi Center di pojok kanan atas dengan logo Lonceng 
+                              </li>
+                                                            <li>
+                               Cek informasi permintaan pembayaran, pastikan sudah benar. 
+                              </li>
+                                                            <li>
+                               Kemudian Klik ‘Bayar’ dan selesaikan pembayaran di Aplikasi Jenius 
+                              </li>
+                                                            <li>
+                               Transaksi selesai. 
+                              </li>"
+PEMBAYARAN INSTAN,GOPAY,https://payment.tiketux.com/image/payment_v2/gopay.png,CARA PEMBAYARAN MENGGUNAKAN GOPAY,"<li>
+                               Anda harus terdaftar sebagai pengguna GoPay dan memiliki aplikasi Gojek pada smartphone Anda. 
+                              </li>
+                                                            <li>
+                               Anda akan diarahkan ke halaman pembayaran GoPay. 
+                              </li>
+                                                            <li>
+                               Anda bisa melakukan pembayaran dengan Scan QR atau direct langsung melalui aplikasi Gojek 
+                              </li>
+                                                            <li>
+                               Jika melalui Scan QR 
+                              </li>
+                                                            <li>
+                               Buka Aplikasi Gojek di smartphone Anda. lalu tekan tombol Bayar 
+                              </li>
+                                                            <li>
+                               Arahkan kamera anda pada Kode QR yang tertera pada halaman pembayaran. 
+                              </li>
+                                                            <li>
+                               Periksa kembali detail pembayaran Anda di aplikasi Gojek dan tekan tombol <b>Pay</b> atau <b>Konfirmasi &amp; Bayar</b>. 
+                              </li>
+                                                            <li>
+                               Transaksi selesai. 
+                              </li>
+                                                            <li>
+                               Jika Melalui direct langsung aplikasi Gojek 
+                              </li>
+                                                            <li>
+                               tekan tombol <b>Go To GoPay Apps</b> di bawah Kode QR yang tertera di halaman pembayaran 
+                              </li>
+                                                            <li>
+                               Maka anda akan langsung di alikan ke Aplikasi Gojek 
+                              </li>
+                                                            <li>
+                               Periksa kembali detail pembayaran Anda di aplikasi Gojek dan tekan tombol <b>Pay</b> atau <b>Konfirmasi &amp; Bayar</b>. 
+                              </li>
+                                                            <li>
+                               Transaksi selesai. 
+                              </li>"
+PEMBAYARAN INSTAN,OCTO Clicks,https://payment.tiketux.com/image/payment_v2/octo-clicks.png,CARA PEMBAYARAN MENGGUNAKAN OCTO Clicks,"<li>
+                               Anda harus terdaftar sebagai pengguna OCTO Clicks. 
+                              </li>
+                                                            <li>
+                               anda akan diarahkan ke halaman OCTO Clicks. 
+                              </li>
+                                                            <li>
+                               Pastikan Nama dan Jumlah bayar yang tertera sesuai dengan pemesan anda. 
+                              </li>
+                                                            <li>
+                               Pembayaran dapat dilakukan melalui OCTO Clicks (OTP) atau OCTO Mobile (QR Code). 
+                              </li>
+                                                            <li>
+                               Apabila Anda memilih melakukan pembayaran melalui OCTO Clicks (OTP) 
+                              </li>
+                                                            <li>
+                               Pastikan rekening sumber dana yang akan digunakan sudah tepat dan benar. Periksa Kode Transaksi dan jumlah pembayaran lalu klik tombol “send SMS”. 
+                              </li>
+                                                            <li>
+                               Melalui SMS ke nomor handphone Anda, OCTO Clicks akan mengirimkan kode OTP (One Time Password). 
+                              </li>
+                                                            <li>
+                               Pastikan nomor handphone Anda sudah terdaftar di OCTO Clicks. Masukkan kode OTP tersebut pada kolom yang disediakan. Klik tombol “Pay“ 
+                              </li>
+                                                            <li>
+                               Transaksi berhasil. 
+                              </li>
+                                                            <li>
+                               Apabila Anda memilih melakukan pembayaran melalui OCTO Mobile (QR Code) 
+                              </li>
+                                                            <li>
+                               Login ke aplikasi OCTO Mobile Anda. 
+                              </li>
+                                                            <li>
+                               Pilih menu “QR” lalu tekan “Scan”. 
+                              </li>
+                                                            <li>
+                               Scan QR yang tertera di layar lalu konfirmasi pembelian Anda dengan OCTO Mobile PIN. 
+                              </li>
+                                                            <li>
+                               Transaksi berhasil. 
+                              </li>"
+PEMBAYARAN INSTAN,Ovo,https://payment.tiketux.com/image/payment_v2/icon_ovo.png,CARA PEMBAYARAN MENGGUNAKAN Ovo,"<li>
+                               Anda harus terdaftar sebagai pengguna <b>OVO</b> dan memiliki aplikasi <b>OVO</b> pada smartphone anda 
+                              </li>
+                                                            <li>
+                               Anda akan diarahkan ke halaman pembayaran <b>OVO</b> 
+                              </li>
+                                                            <li>
+                               Masukan nomer telepon yang anda daftarkan pada applikasi <b>OVO</b> anda kemudian klik <b>PAY</b> 
+                              </li>
+                                                            <li>
+                               Lalu buka Aplikasi <b>OVO</b> anda dari Smarphone anda. 
+                              </li>
+                                                            <li>
+                               Kemudian pilih Notifikasi pada aplikasi <b>OVO</b> anda untuk menyelesaikan pembayaran nya ( Waktu pembayaran dengan <b>OVO</b> hanya 1 menit, dan disarankan untuk melakukan pembayaran dengan segera). 
+                              </li>
+                                                            <li>
+                               Transaksi Selesai 
+                              </li>"
+PEMBAYARAN INSTAN,Shopeepay,https://payment.tiketux.com/image/payment_v2/shopeepay.png,CARA PEMBAYARAN MENGGUNAKAN Shopeepay,"<li>
+                               Anda harus terdaftar sebagai pengguna <b>ShopeePay</b>. 
+                              </li>
+                                                            <li>
+                               Setelah menyetujui Syarat &amp; Ketentuan dan Anda menekan tombol “Proses Selanjutnya“ maka Anda akan diarahkan ke halaman pembayaran <b>Shopeepay</b> 
+                              </li>
+                                                            <li>
+                               Jika Anda ingin melakukan pembayaran melalui <b>SCAN QR</b> 
+                              </li>
+                                                            <li>
+                               Buka aplikasi <b>Shopee</b> pada smartphone anda. 
+                              </li>
+                                                            <li>
+                               Tekan <b>Icon Scan QR</b>. 
+                              </li>
+                                                            <li>
+                               Arahkan kamera anda pada <b>Kode QR</b> yang tertera pada halaman pembayaran. 
+                              </li>
+                                                            <li>
+                               Periksa kembali detail pembayaran Anda di aplikasi <b>Shopee</b> dan tekan tombol <b>Bayar</b>. 
+                              </li>
+                                                            <li>
+                               Transaksi selesai. 
+                              </li>
+                                                            <li>
+                               Atau jika Anda ingin melakukan pembayaran dengan langsung diarahkan ke Aplikasi <b>Shopee</b> pada Smartphone anda 
+                              </li>
+                                                            <li>
+                               Tekan Tombol “GO TO <b>ShopeePay</b> APPS“ pada halaman pembayaran. Maka anda akan langsung di arahkan ke aplikasi <b>Shopee</b> pada Smartphone anda 
+                              </li>
+                                                            <li>
+                               Periksa kembali detail pembayaran Anda di aplikasi <b>Shopee</b> dan tekan tombol <b>Bayar</b>. 
+                              </li>
+                                                            <li>
+                               Transaksi selesai. 
+                              </li>"
+PEMBAYARAN INSTAN,Kartu Kredit,https://payment.tiketux.com/image/payment_v2/fincc.png,CARA PEMBAYARAN MENGGUNAKAN Kartu Kredit,"<li>
+                               Anda harus sebagai pengguna aktif kartu kredit Visa atau MasterCard. 
+                              </li>
+                                                            <li>
+                               Setelah menyetujui Syarat &amp; Ketentuan dan anda menekan tombol ""Proses Selanjutnya"" maka anda akan diarahkan ke halaman pembayaran kartu kredit. 
+                              </li>
+                                                            <li>
+                               Isikan data yang diminta, lakukan segera pembayaran, karena anda hanya memiliki tenggang waktu 50 menit untuk melakukan pembayaran. 
+                              </li>
+                                                            <li>
+                               Pastikan Nama dan Jumlah bayar yang tertera sesuai dengan pemesan anda. 
+                              </li>
+                                                            <li>
+                               Jika pembayaran telah berhasil, Anda akan mendapatkan informasi tersebut melalui SMS dan Email dari Tiketux sebagai bukti Anda telah melakukan pembayaran tiket. 
+                              </li>"
+PEMBAYARAN INSTAN,Dana,https://payment.tiketux.com/image/payment_v2/dana.png,CARA PEMBAYARAN MENGGUNAKAN Dana,"<li>
+                               Anda harus terdaftar sebagai pengguna <b>DANA</b> 
+                              </li>
+                                                            <li>
+                               Anda akan diarahkan ke halaman pembayaran <b>DANA</b> 
+                              </li>
+                                                            <li>
+                               Masukan nomer telepon dan masukan pin <b>DANA</b> anda 
+                              </li>
+                                                            <li>
+                               lalu periksa sms di handphone Anda dan masukan kode verifikasi 
+                              </li>
+                                                            <li>
+                               Periksa transaksi Anda dan pilih Payment Method <b>DANA Balance</b> 
+                              </li>
+                                                            <li>
+                               Lalu klik <b>PAY</b> 
+                              </li>
+                                                            <li>
+                               Transaksi Selesai 
+                              </li>"
+PEMBAYARAN INSTAN,Link Aja,https://payment.tiketux.com/image/payment_v2/linkaja.png,CARA PEMBAYARAN MENGGUNAKAN Link Aja,"<li>
+                               Anda harus terdaftar sebagai pengguna <b>Link Aja</b>. 
+                              </li>
+                                                            <li>
+                               Anda akan diarahkan ke halaman pembayaran <b>Link Aja</b> 
+                              </li>
+                                                            <li>
+                               Pastikan jumlah pembayaran dan pesanan anda, kemudian masukan nomor dan pin Link Aja. 
+                              </li>
+                                                            <li>
+                               Setelah itu anda akan menerima OTP melalui sms yang digunakan untuk transaksi anda. 
+                              </li>
+                                                            <li>
+                               Transaksi Selesai 
+                              </li>"
+PAYLATER,Indodana,https://payment.tiketux.com/image/payment_v2/indodana.png,CARA PEMBAYARAN MENGGUNAKAN Indodana,"<li>
+                               Anda harus terdaftar sebagai pengguna <b>Indona</b> 
+                              </li>
+                                                            <li>
+                               Anda akan diarahkan ke halaman pembayaran <b>Indodana</b> 
+                              </li>
+                                                            <li>
+                               Masukan nomer telepon dan masukan pin <b>Indodana</b> Anda 
+                              </li>
+                                                            <li>
+                               Periksa detail transaksi Anda 
+                              </li>
+                                                            <li>
+                               Lalu klik <b>BAYAR</b> 
+                              </li>
+                                                            <li>
+                               Masukan pin <b>Indodana</b> Anda 
+                              </li>
+                                                            <li>
+                               Transaksi Selesai 
+                              </li>"
+VIRTUAL ACCOUNT,BCA Virtual Account,https://payment.tiketux.com/image/payment_v2/bca-va.png,CARA PEMBAYARAN MENGGUNAKAN BCA Virtual Account,"<li>
+                               Pembayaran dapat dilakukan melalui <b>ATM ,Mobile Banking atau Internet Banking BCA</b>. 
+                              </li>
+                                                            <li>
+                               Setelah menyetujui Syarat &amp; Ketentuan dan mengklik tombol ""Proses Selanjutnya"", Anda akan mendapatkan <b>Nomor Virtual Account</b>. 
+                              </li>
+                                                            <li>
+                               Catat <b>Nomor Virtual Account</b> dan <b>Nominal</b> yang tertera. 
+                              </li>
+                                                            <li>
+                               Silahkan lihat panduan pembayaran menggunakan ATM, Mobile Banking atau Internet Banking. 
+                              </li>
+                                                                                                                           ATM
+                                                              <ul>
+                                 <li>
+                                   Pilih Menu Transaksi Lainnya 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Transfer 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Ke rekening BCA Virtual Account. 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input Nomor Virtual Account, misal. 123456789012XXXX 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Benar 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Ya 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Ambil bukti bayar anda 
+                                 </li>
+                               </ul>
+                                                             
+                                                               Mobile Banking
+                                                              <ul>
+                                 <li>
+                                   Login Mobile Banking 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih m-Transfer &gt; BCA Virtual Account. 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan nomor Virtual Account, contoh: 123XXXXXX dan pilih <b>Send.</b> 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Periksa informasi yang tertera di layar. Pastikan informasi dan total tagihan sudah benar. Jika benar pilih <b>Ya.</b> 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan PIN m-BCA Anda dan pilih OK. 
+                                 </li>
+                               </ul>
+                                                             
+                                                               Internet Banking
+                                                              <ul>
+                                 <li>
+                                   Login Internet Banking. 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Transfer Dana 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Transfer Ke BCA Virtual Account 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input Nomor Virtual Account, misal. 123456789012XXXX 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Klik Lanjutkan 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input Respon KeyBCA Appli 1 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Klik Kirim 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Bukti bayar ditampilkan 
+                                 </li>
+                               </ul>"
+VIRTUAL ACCOUNT,KEB Hana Virtual Account,https://payment.tiketux.com/image/payment_v2/keb-hana-va.png,CARA PEMBAYARAN MENGGUNAKAN KEB Hana Virtual Account,"<li>
+                               Pembayaran dapat dilakukan melalui <b>ATM atau Internet Banking Bank KEB Hana</b>. 
+                              </li>
+                                                            <li>
+                               Setelah menyetujui Syarat &amp; Ketentuan dan mengklik tombol ""Proses Selanjutnya"", Anda akan mendapatkan <b>Nomor Virtual Account</b>. 
+                              </li>
+                                                            <li>
+                               Catat <b>Nomor Virtual Account</b> dan <b>Nominal</b> yang tertera. 
+                              </li>
+                                                            <li>
+                               Silahkan lihat panduan pembayaran menggunakan ATM atau Mobile Banking. 
+                              </li>
+                                                                                                                           ATM
+                                                              <ul>
+                                 <li>
+                                   Pilih Menu Pembayaran 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Lainnya 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input Nomor Virtual Account, misal. 123456789012XXXX 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Benar 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Ya 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Ambil bukti bayar anda 
+                                 </li>
+                               </ul>
+                                                             
+                                                               Mobile Banking
+                                                              <ul>
+                                 <li>
+                                   Internet Banking 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Login Internet Banking. 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih menu Transfer kemudian Pilih Withdrawal Account Information 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Account Number anda 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input Nomor Virtual Account , misal. 123456789012XXXX 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input Nominal, misal. 10000 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Klik Submit 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input SMS Pin 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Bukti bayar ditampilkan 
+                                 </li>
+                               </ul>"
+VIRTUAL ACCOUNT,Mandiri Virtual Account,https://payment.tiketux.com/image/payment_v2/mandiri-va.png,CARA PEMBAYARAN MENGGUNAKAN Mandiri Virtual Account,"<li>
+                               Pembayaran dapat dilakukan melalui <b>ATM, Mobile Banking atau Internet Banking Bank Mandiri</b>. 
+                              </li>
+                                                            <li>
+                               Anda akan mendapatkan <b>Nomor Virtual Account</b>. 
+                              </li>
+                                                            <li>
+                               Catat <b>Nomor Virtual Account</b> dan <b>Nominal</b> yang tertera. 
+                              </li>
+                                                            <li>
+                               Silahkan lihat panduan pembayaran menggunakan ATM, Mobile Banking atau Internet Banking. 
+                              </li>
+                                                                                                                           ATM
+                                                              <ul>
+                                 <li>
+                                   Pilih Menu Bayar/Beli 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Lainnya 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Multi Payment 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input 70014 sebagai Kode Institusi 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input Nomor Virtual Account, misal. 123456789012XXXX 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Benar 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Ya 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Ya 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Ambil bukti bayar anda 
+                                 </li>
+                               </ul>
+                                                             
+                                                               Mobile Banking
+                                                              <ul>
+                                 <li>
+                                   Login Mobile Banking 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Bayar 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Multi Payment 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input Transferpay sebagai Penyedia Jasa 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input Nomor Virtual Account, misal. 123456789012XXXX 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Lanjut 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input OTP and PIN 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih OK 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Bukti bayar ditampilkan 
+                                 </li>
+                               </ul>
+                                                             
+                                                               Internet Banking
+                                                              <ul>
+                                 <li>
+                                   Login Internet Banking. 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Bayar 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Multi Payment 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input Transferpay sebagai Penyedia Jasa 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input Nomor Virtual Account, misal. 123456789012XXXX sebagai Kode Bayar 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Ceklis IDR 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Klik Lanjutkan 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Bukti bayar ditampilkan 
+                                 </li>
+                               </ul>"
+VIRTUAL ACCOUNT,BRI Virtual Account,https://payment.tiketux.com/image/payment_v2/bri-va.png,CARA PEMBAYARAN MENGGUNAKAN BRI Virtual Account,"<li>
+                               Pembayaran dapat dilakukan melalui <b>ATM, Mobile Banking atau Internet Banking BRI</b>. 
+                              </li>
+                                                            <li>
+                               Anda akan mendapatkan <b>Nomor Virtual Account</b>. 
+                              </li>
+                                                            <li>
+                               Catat <b>Nomor Virtual Account</b> dan <b>Nominal</b> yang tertera. 
+                              </li>
+                                                            <li>
+                               Silahkan lihat panduan pembayaran menggunakan ATM, Mobile Banking atau Internet Banking. 
+                              </li>
+                                                                                                                           ATM
+                                                              <ul>
+                                 <li>
+                                   Pilih Menu Transaksi Lain 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Menu Pembayaran 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Menu Lain-lain 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Menu BRIVA 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Ke rekening BRI Virtual Account. 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan Nomor Virtual Account, misal. 123456789012XXXX 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Ya 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Ambil bukti bayar anda 
+                                 </li>
+                               </ul>
+                                                             
+                                                               Mobile Banking
+                                                              <ul>
+                                 <li>
+                                   Login BRI Mobile 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Mobile Banking BRI 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Menu Pembayaran 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Menu BRIVA 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan Nomor Virtual Account, misal. 123456789012XXXX 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan Nominal , misal. 10000 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Klik OK 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan PIN Mobile 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Klik Kirim 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Bukti bayar akan dikirim melalui sms 
+                                 </li>
+                               </ul>
+                                                             
+                                                               Internet Banking
+                                                              <ul>
+                                 <li>
+                                   Login Internet Banking. 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Pembayaran 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Menu BRIVA 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan Nomor Virtual Account, misal. 123456789012XXXX 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Klik Kirim 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan Password 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan mToken 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Klik Kirim 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Bukti bayar ditampilkan 
+                                 </li>
+                               </ul>"
+VIRTUAL ACCOUNT,PermataVirtual Account,https://payment.tiketux.com/image/payment_v2/permata-va.png,CARA PEMBAYARAN MENGGUNAKAN PermataVirtual Account,"<li>
+                               Pembayaran dapat dilakukan melalui <b>ATM, Mobile Banking atau Internet Banking Bank Permata</b>. 
+                              </li>
+                                                            <li>
+                               Anda akan mendapatkan <b>Nomor Virtual Account</b>. 
+                              </li>
+                                                            <li>
+                               Catat <b>Nomor Virtual Account</b> dan <b>Nominal</b> yang tertera. 
+                              </li>
+                                                            <li>
+                               Silahkan lihat panduan pembayaran menggunakan ATM, Mobile Banking atau Internet Banking. 
+                              </li>
+                                                                                                                           ATM
+                                                              <ul>
+                                 <li>
+                                   Pilih Menu Transaksi Lainnya 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Pembayaran 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Pembayaran Lain-lain 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Virtual Account 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input Nomor Virtual Account, misal. 123456789012XXXX 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Select Benar 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Select Ya 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Ambil bukti bayar anda 
+                                 </li>
+                               </ul>
+                                                             
+                                                               Mobile Banking
+                                                              <ul>
+                                 <li>
+                                   Login Mobile Banking 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Pembayaran Tagihan 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Virtual Account 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input Nomor Virtual Account, misal. 123456789012XXXX 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input Nominal, misal. 10000 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Klik Kirim 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input Token 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Klik Kirim 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Bukti bayar akan ditampilkan 
+                                 </li>
+                               </ul>
+                                                             
+                                                               Internet Banking
+                                                              <ul>
+                                 <li>
+                                   Login Internet Banking. 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Pembayaran Tagihan 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Virtual Account 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input Nomor Virtual Account, misal. 123456789012XXXX 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input Nominal, misal. 10000 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Klik Kirim 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input Token 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Klik Kirim 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Bukti bayar ditampilkan 
+                                 </li>
+                               </ul>"
+VIRTUAL ACCOUNT,BJB Virtual Account,https://payment.tiketux.com/image/payment_v2/nice-bjb.png,CARA PEMBAYARAN MENGGUNAKAN BJB Virtual Account,"<li>
+                               Pembayaran dapat dilakukan melalui <b>ATM, Mobile Banking, BJB Net, Transfer Bank Non-BJB, Transfer antar Bank (Dompet Digital) atau Bank BJB (TELLER)</b>. 
+                              </li>
+                                                            <li>
+                               Anda akan mendapatkan <b>Nomor Virtual Account</b>. 
+                              </li>
+                                                            <li>
+                               Catat <b>Nomor Virtual Account</b> dan <b>Nominal</b> yang tertera. 
+                              </li>
+                                                            <li>
+                               Silahkan lihat panduan pembayaran menggunakan <b>ATM, Mobile Banking, BJB Net, Transfer Bank Non-BJB, Transfer antar Bank (Dompet Digital) atau Bank BJB (TELLER)</b>. 
+                              </li>
+                                                                                                                           ATM
+                                                              <ul>
+                                 <li>
+                                   Input Kartu ATM dan PIN Anda 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih menu Transaksi Lainnya, kemudian pilih Virtual Account 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Tabungan 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input Nomor Virtual Account, misal. 1887XXXXXXXXXXXX sebagaiKode Bayar 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Lanjutkan 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Layar akan menampilkan Kode Bayar dan Data Pembayaran, Jika jenis tagihan open, customer harus menginput kembali Jumlah Bayar 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Klik Ya untuk melakukan pembayaran 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Selesai 
+                                 </li>
+                               </ul>
+                                                             
+                                                               Mobile Banking
+                                                              <ul>
+                                 <li>
+                                   Login BJB Mobile App Anda 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih MenuVirtual Account 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input Nomor Virtual Account, misal. 1887XXXXXXXXXXXX sebagai Kode Bayar 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Layar akan menampilkan Kode Bayar dan Data Pembayaran, Jika jenis tagihan open, customer menginput kembali Nominal yang harus dibayarkan 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input PIN, Klik Lanjutkan untuk melakukan pembayaran 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Selesai 
+                                 </li>
+                               </ul>
+                                                             
+                                                               BJB Net
+                                                              <ul>
+                                 <li>
+                                   Login BJB Net App Anda 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih MenuBJB Virtual Account 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input Nomor Virtual Account, misal. 1887XXXXXXXXXXXX sebagai Kode Bayar 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Layar akan menampilkan Kode Bayar dan Data Pembayaran, Jika jenis tagihan open, customer menginput kembali Nominal yang harus dibayarkan 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Klik Lanjut untuk melakukan pembayaran 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Selesai 
+                                 </li>
+                               </ul>
+                                                             
+                                                               Transfer Bank Non-BJB
+                                                              <ul>
+                                 <li>
+                                   Customer membayar tagihan melalui Channel Bank Lain (Teller, ATM atau Internet Banking) 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Menu Transfer antar bank 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input Kode Bank BJB 110 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input Nomor Virtual Account, misal. 1101887XXXXXXXXXXXX sebagai Kode Bayar 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   System akan menampilkan Identitas dari nomor Virtual Account Jika jenis tagihan open, customer menginput kembaliNominal yang harus dibayarkan 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Selesai 
+                                 </li>
+                               </ul>
+                                                             
+                                                               Transfer antar Bank (Dompet Digital)
+                                                              <ul>
+                                 <li>
+                                   Pada Layanan Dompet Digital, pilih menu Transfer ke rekening bank 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input Kode Bank dan Nomor Virtual Account 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Jika jenis tagihan open, customer menginput kembali Nominal yang harus dibayarkan 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Klik Lanjutkan untuk melakukan pembayaran 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Selesai 
+                                 </li>
+                               </ul>
+                                                             
+                                                               Bank BJB (TELLER)
+                                                              <ul>
+                                 <li>
+                                   Customer membawa nomor Virtual Account yang didapatkan dari aplikasi/website/institusi 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Teller Bank BJB akan menginput nomor Virtual Account tersebut pada Aplikasi BJB Fast dan tergantung dengan jenis pembayaran yang ditentukan institusi/biller, customer akan membayarkan tagihannya secara fix atau open payment 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Customer menerima bukti bayar dan status tagihan di Biller/Institusi akan otomatis berubah menjadi terbayar 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Selesai 
+                                 </li>
+                               </ul>"
+VIRTUAL ACCOUNT,BTN Virtual Account,https://payment.tiketux.com/image/payment_v2/btn.png,CARA PEMBAYARAN MENGGUNAKAN BTN Virtual Account,"<li>
+                               Pembayaran dapat dilakukan melalui <b>ATM BTN, Mobile Banking BTN, Cabang BTN(Teller), ATM Bersama, Mobile Banking Bank Lain</b>. 
+                              </li>
+                                                            <li>
+                               Anda akan mendapatkan <b>Nomor Virtual Account</b>. 
+                              </li>
+                                                            <li>
+                               Catat <b>Nomor Virtual Account</b> dan <b>Nominal</b> yang tertera. 
+                              </li>
+                                                            <li>
+                               Silahkan lihat panduan pembayaran menggunakan <b>Internet Banking, Bank Lain</b>. 
+                              </li>
+                                                                                                                           ATM BTN
+                                                              <ul>
+                                 <li>
+                                   Masukkan Kartu Anda 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Bahasa 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan PIN ATM Anda 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Menu Lainnya 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Pembayaran 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Multipayment 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Virtual Account 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan nomor Virtual Account Anda (contoh: 954620000000000938) 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Tagihan yang harus dibayarkan akan muncul pada layar konfirmasi 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Konfirmasi, apabila telah sesuai, lanjutkan transaksi 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Transaksi Anda telah selesai 
+                                 </li>
+                               </ul>
+                                                             
+                                                               Mobile Banking BTN
+                                                              <ul>
+                                 <li>
+                                   Akses BTN Mobile Banking dari handphone kemudian masukkan user ID dan password 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih menu Pembayaran 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih menu Virtual Account kemudian pilih rekening debet 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan nomor Virtual Account Anda (contoh: 954620000000000938) 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Tekan Kirim 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Tagihan yang harus dibayarkan akan muncul pada layar konfirmasi 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Konfirmasi transaksi dan masukkan PIN dan Kode OTP (dikirim melalui SMS) Transaksi 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Tekan Kirim 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pembayaran Anda Telah Berhasil 
+                                 </li>
+                               </ul>
+                                                             
+                                                               Cabang BTN(Teller)
+                                                              <ul>
+                                 <li>
+                                   Kunjungi Kantor Cabang/outlet BTN terdekat 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Informasikan kepada Teller, bahwa ingin melakukan pembayaran “Virtual Account” 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Serahkan nomor Virtual Account Anda kepada Teller 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Teller melakukan konfirmasi kepada Anda 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Teller memproses Transaksi 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Apabila transaksi Sukses anda akan menerima bukti pembayaran dari Teller tersebut 
+                                 </li>
+                               </ul>
+                                                             
+                                                               ATM Bersama
+                                                              <ul>
+                                 <li>
+                                   Masukkan kartu ke mesin ATM Bersama 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Transaksi Lainnya 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih menu Transfer 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Transfer ke Bank Lain 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan kode bank BTN (200) dan 18 Digit Nomor Virtual Account (contoh: 954620000000000938) 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan nominal transfer sesuai tagihan atau kewajiban Anda, Nominal yang berbeda tidak dapat diproses 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Konfirmasi rincian Anda akan tampil di layar, cek dan tekan “Ya“ untuk melanjutkan 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Transaksi Berhasil 
+                                 </li>
+                               </ul>
+                                                             
+                                                               Mobile Banking Bank Lain
+                                                              <ul>
+                                 <li>
+                                   Pilih menu Transfer antar bank atau Transfer online antarbank 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Bank BTN 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukan 18 Digit Nomor Virtual Account pada kolom rekening tujuan, (contoh: 954620000000000938) 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan nominal transfer sesuai tagihan atau kewajiban Anda, Nominal yang berbeda tidak dapat diproses 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Konfirmasi rincian Anda akan tampil di layar, cek dan apabila sudah sesuai silahkan lanjutkan transaksi sampai dengan selesai 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Transaksi Berhasil 
+                                 </li>
+                               </ul>"
+VIRTUAL ACCOUNT,BNI Virtual Account,https://payment.tiketux.com/image/payment_v2/bni-va.png,CARA PEMBAYARAN MENGGUNAKAN BNI Virtual Account,"<li>
+                               Pembayaran dapat dilakukan melalui <b>ATM, SMS Banking, Mobile Banking atau Internet Banking BNI</b>. 
+                              </li>
+                                                            <li>
+                               Anda akan mendapatkan <b>Nomor Virtual Account</b>. 
+                              </li>
+                                                            <li>
+                               Catat <b>Nomor Virtual Account</b> dan <b>Nominal</b> yang tertera. 
+                              </li>
+                                                            <li>
+                               Silahkan lihat panduan pembayaran menggunakan ATM, SMS Banking atau Internet Banking. 
+                              </li>
+                                                                                                                           ATM
+                                                              <ul>
+                                 <li>
+                                   Pilih Menu Lain 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Menu Transfer 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Ke Rekening BNI 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan Nominal, misal. 10000 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan Nomor Virtual Account, misal. 123456789012XXXX 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Ya 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Ambil bukti bayar anda 
+                                 </li>
+                               </ul>
+                                                             
+                                                               SMS Banking
+                                                              <ul>
+                                 <li>
+                                   Masuk Aplikasi SMS Banking BNI. 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Menu Transfer 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Trf Rekening BNI 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan Nomor Virtual Account, misal. 123456789012XXXX 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan Jumlah Tagihan, misal. 10000 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Proses 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pada Pop Up Message, Pilih Setuju 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Anda Akan Mendapatkan Pesan Konfirmasi 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan 2 Angka Dari PIN Anda Dengan Mengikuti Petunjuk Yang Tertera Pada Pesan 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Bukti bayar ditampilkan 
+                                 </li>
+                               </ul>
+                                                             
+                                                               Mobile Banking
+                                                              <ul>
+                                 <li>
+                                   Pilih Transfer 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Antar Rekening BNI 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input Rekening Tujuan 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input Input Rekening Baru 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input Nomor Virtual Account sebagai Nomor Rekening, misal. 123456789012XXXX 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Klik Lanjut 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan Nominal Tagihan. , misal. 10000 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Klik Lanjut 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Periksa Detail Konfirmasi. Pastikan Data Sudah Benar 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Jika Sudah Benar, Masukkan Password Transaksi 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Klik Lanjut 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Bukti bayar ditampilkan 
+                                 </li>
+                               </ul>
+                                                             
+                                                               Internet Banking
+                                                              <ul>
+                                 <li>
+                                   Login Internet Banking. 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Transaksi 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Info dan Administrasi 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Atur Rekening Tujuan 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Tambah Rekening Tujuan 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan Kode Booking Sebagai Nama Singkat, misal. GRE4545TTX 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan Nomor Virtual Account Sebagai Nomor Rekening, misal. 123456789012XXXX 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Lengkapi Semua Data Yang Diperlukan 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Klik Lanjutkan 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan Kode Otentikasi Token lalu, Proses 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Rekening Tujuan Berhasil Ditambahkan 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Menu Transfer 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Transfer Antar Rek. BNI 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Rekening Tujuan dengan Nama Singkat Yang Sudah Anda Tambahkan., misal. GRE4545TTX 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan Nominal., misal. 10000 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan Kode Otentikasi Token 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Bukti bayar ditampilkan 
+                                 </li>
+                               </ul>"
+VIRTUAL ACCOUNT,BSI Virtual Account,https://payment.tiketux.com/image/payment_v2/bsi.png,CARA PEMBAYARAN MENGGUNAKAN BSI Virtual Account,"<li>
+                               Pembayaran dapat dilakukan melalui <b>ATM, Mobile Banking atau Internet Banking Bank BSI</b>. 
+                              </li>
+                                                            <li>
+                               Anda akan mendapatkan <b>Nomor Virtual Account</b>. 
+                              </li>
+                                                            <li>
+                               Catat <b>Nomor Virtual Account</b> dan <b>Nominal</b> yang tertera. 
+                              </li>
+                                                            <li>
+                               Silahkan lihat panduan pembayaran menggunakan ATM, Mobile Banking atau Internet Banking. 
+                              </li>
+                                                                                                                           BSI Mobile
+                                                              <ul>
+                                 <li>
+                                   Masuk ke aplikasi BSI Mobile lalu pilih menu Bayar. 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Pembayaran 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Institusi 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih 9042 - Winpay 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan nomor Virtual Account (No. Bayar). 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan PIN BSI Mobile. 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Validasi pembayaran (pastikan semua detail transaksi yang ditampilkan sudah benar) kemudian tekan SELANJUTNYA. 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pembayaran selesai. 
+                                 </li>
+                               </ul>"
+VIRTUAL ACCOUNT,Muamalat Virtual Account,https://payment.tiketux.com/image/payment_v2/muamalat.png,CARA PEMBAYARAN MENGGUNAKAN Muamalat Virtual Account,"<li>
+                               Pembayaran dapat dilakukan melalui <b>ATM, Mobile Banking atau Internet Banking Bank Muamalat</b>. 
+                              </li>
+                                                            <li>
+                               Anda akan mendapatkan <b>Nomor Virtual Account</b>. 
+                              </li>
+                                                            <li>
+                               Catat <b>Nomor Virtual Account</b> dan <b>Nominal</b> yang tertera. 
+                              </li>
+                                                            <li>
+                               Silahkan lihat panduan pembayaran menggunakan ATM, Mobile Banking atau Internet Banking. 
+                              </li>
+                                                                                                                           ATM
+                                                              <ul>
+                                 <li>
+                                   Pilih Menu TRANSAKSI LAIN 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih menu PEMBAYARAN kemudian pilih menu VIRTUAL ACCOUNT 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan Nomor Virtual Account, misal 123456789xxxx 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Tekan BAYAR jika setuju dengan informasi pembayaran 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Periksa kembali Jumlah Tagihan 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Apabila sudah sesuai, tekan BENAR, lalu tekan BAYAR 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Ambil bukti bayar anda. 
+                                 </li>
+                               </ul>
+                                                             
+                                                               Mobile Banking
+                                                              <ul>
+                                 <li>
+                                   Login ke Mobile Banking Muamalat 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih menu PEMBAYARAN 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan Nomor Virtual Account, misal 123456789xxxx, klik PROSES 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Periksa kembali Jumlah Pembayaran 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Apabila sudah sesuai, masukkan Kode Verifikasi lalu klik PROSES jika setuju dengan informasi pembayaran 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Transaksi Anda selesai. Simpan struk sebagai bukti transaksi. 
+                                 </li>
+                               </ul>
+                                                             
+                                                               Internet Banking
+                                                              <ul>
+                                 <li>
+                                   Login ke IB Muamalat 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih menu PAYMENT 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih rekening Anda dan pilih VIRTUAL ACCOUNT pada bill type 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan Nomor Virtual Account, misal 123456789xxxx 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Klik NEXT 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Periksa kembali Jumlah Pembayaran 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Apabila sudah sesuai, Masukkan mPasscode lalu klik SUBMIT jika setuju dengan informasi pembayaran 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Transaksi Anda selesai. Cetak bukti transaksi jika diperlukan. 
+                                 </li>
+                               </ul>"
+VIRTUAL ACCOUNT,CIMB Virtual Account,https://payment.tiketux.com/image/payment_v2/cimb-va.png,CARA PEMBAYARAN MENGGUNAKAN CIMB Virtual Account,"<li>
+                               Pembayaran dapat dilakukan melalui <b>ATM, Mobile Banking atau Internet Banking CIMB Niaga</b>. 
+                              </li>
+                                                            <li>
+                               Anda akan mendapatkan <b>Nomor Virtual Account</b>. 
+                              </li>
+                                                            <li>
+                               Catat <b>Nomor Virtual Account</b> dan <b>Nominal</b> yang tertera. 
+                              </li>
+                                                            <li>
+                               Silahkan lihat panduan pembayaran menggunakan ATM, Mobile Banking atau Internet Banking. 
+                              </li>
+                                                                                                                           ATM
+                                                              <ul>
+                                 <li>
+                                   Pilih Menu Pembayaran 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Menu Lanjut 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Menu Virtual Account 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan Nomor Virtual Account, misal. 123456789012XXXX 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Proses 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Data Virtual Account akan ditampilkan 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Proses 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Ambil bukti bayar anda 
+                                 </li>
+                               </ul>
+                                                             
+                                                               Mobile Banking
+                                                              <ul>
+                                 <li>
+                                   Login Go Mobile 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Menu Transfer 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Menu Other Rekening Ponsel/CIMB Niaga 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Sumber Dana yang akan digunakan 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Casa 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan Nomor Virtual Account, misal. 123456789012XXXX 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan Nominal, misal. 10000 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Klik Lanjut 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Data Virtual Account akan ditampilkan 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan PIN Mobile 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Klik Konfirmasi 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Bukti bayar akan dikirim melalui sms 
+                                 </li>
+                               </ul>
+                                                             
+                                                               Internet Banking
+                                                              <ul>
+                                 <li>
+                                   Login Internet Banking. 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Bayar Tagihan 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Rekening Sumber - Pilih yang akan Anda digunakan 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Jenis Pembayaran - Pilih Virtual Account 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Untuk Pembayaran - Pilih Masukkan Nomor Virtual Account 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input Nomor Virtual Account, misal. 123456789012XXXX 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Isi Remark Jika diperlukan 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Klik Lanjut 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Data Virtual Account akan ditampilkan 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan mPIN 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Klik Kirim 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Bukti bayar ditampilkan 
+                                 </li>
+                               </ul>"
+VIRTUAL ACCOUNT,Danamon Virtual Account,https://payment.tiketux.com/image/payment_v2/danamon-va.png,CARA PEMBAYARAN MENGGUNAKAN Danamon Virtual Account,"<li>
+                               Pembayaran dapat dilakukan melalui <b>ATM atau Mobile Banking Bank Danamon</b>. 
+                              </li>
+                                                            <li>
+                               Anda akan mendapatkan <b>Nomor Virtual Account</b>. 
+                              </li>
+                                                            <li>
+                               Catat <b>Nomor Virtual Account</b> dan <b>Nominal</b> yang tertera. 
+                              </li>
+                                                            <li>
+                               Silahkan lihat panduan pembayaran menggunakan ATM atau Mobile Banking. 
+                              </li>
+                                                                                                                           ATM
+                                                              <ul>
+                                 <li>
+                                   Pilih Menu Pembayaran 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Lainnya 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Menu Virtual Account 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input Nomor Virtual Account, misal. 123456789012XXXX 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Benar 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Data Virtual Account akan ditampilkan 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Ya 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Ambil bukti bayar anda 
+                                 </li>
+                               </ul>
+                                                             
+                                                               Mobile Banking
+                                                              <ul>
+                                 <li>
+                                   Login D-Mobile 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Menu Pembayaran 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Menu Virtual Account 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Tambah Biller Baru Pembayaran 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Tekan Lanjut 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan Nomor Virtual Account, misal. 123456789012XXXX 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Tekan Ajukan 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Data Virtual Account akan ditampilkan 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan mPIN 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Konfirmasi 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Bukti bayar akan dikirim melalui sms 
+                                 </li>
+                               </ul>"
+VIRTUAL ACCOUNT,Maybank Virtual Account,https://payment.tiketux.com/image/payment_v2/maybank-va.png,CARA PEMBAYARAN MENGGUNAKAN Maybank Virtual Account,"<li>
+                               Pembayaran dapat dilakukan melalui <b>ATM, SMS Banking atau Internet Banking Bank Maybank (BII)</b>. 
+                              </li>
+                                                            <li>
+                               Anda akan mendapatkan <b>Nomor Virtual Account</b>. 
+                              </li>
+                                                            <li>
+                               Catat <b>Nomor Virtual Account</b> dan <b>Nominal</b> yang tertera. 
+                              </li>
+                                                            <li>
+                               Silahkan lihat panduan pembayaran menggunakan ATM, SMS Banking atau Internet Banking. 
+                              </li>
+                                                                                                                           ATM
+                                                              <ul>
+                                 <li>
+                                   Pilih Menu Pembayaran/Top Up Pulsa 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Virtual Account 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input Nomor Virtual Account, misal. 123456789012XXXX 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Benar 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Ya 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Ambil bukti bayar anda 
+                                 </li>
+                               </ul>
+                                                             
+                                                               SMS Banking
+                                                              <ul>
+                                 <li>
+                                   SMS ke 69811 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Ketik TRANSFER ‹Nomor Virtual Account› ‹Nominal›. Contoh: TRANSFER 12345XXXXXXXXXXXX 10000 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Kirim SMS 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Anda akan mendapat balasan Transfer dr rek &lt; nomor rekening anda &gt; ke rek &lt; Nomor Virtual Account &gt; sebesar Rp. 10.000 Ketik &lt; karakter acak &gt; 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Balas SMS tersebut, ketik &lt; karakter acak &gt; 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Kirim SMS 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Selesai 
+                                 </li>
+                               </ul>
+                                                             
+                                                               Internet Banking
+                                                              <ul>
+                                 <li>
+                                   Login Internet Banking. 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Rekening dan Transaksi. 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Maybank Virtual Account. 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Sumber Tabungan 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input Nomor Virtual Account Sebagai Nomor Rekening, misal. 123456789012XXXX 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input Nominal, misal. 10000 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Klik Submit 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Input SMS Token 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Bukti bayar ditampilkan 
+                                 </li>
+                               </ul>"
+VIRTUAL ACCOUNT,BNC Virtual Account,https://payment.tiketux.com/image/payment_v2/nice-bnc.png,CARA PEMBAYARAN MENGGUNAKAN BNC Virtual Account,"<li>
+                               Pembayaran dapat dilakukan melalui <b>Internet Banking, Bank Lain</b>. 
+                              </li>
+                                                            <li>
+                               Anda akan mendapatkan <b>Nomor Virtual Account</b>. 
+                              </li>
+                                                            <li>
+                               Catat <b>Nomor Virtual Account</b> dan <b>Nominal</b> yang tertera. 
+                              </li>
+                                                            <li>
+                               Silahkan lihat panduan pembayaran menggunakan <b>Internet Banking, Bank Lain</b>. 
+                              </li>
+                                                                                                                           Internet Banking
+                                                              <ul>
+                                 <li>
+                                   Masuk ke aplikasi neobank 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih menu Pembayaran VA 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih BNC sebagai nama bank penerima 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan No. VA 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan nominal pembayaran 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Konfirmasi informasi pembayaran 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan PIN 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Transaksi selesai 
+                                 </li>
+                               </ul>
+                                                             
+                                                               Bank Lain
+                                                              <ul>
+                                 <li>
+                                   Masuk ke aplikasi Bank App 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih Transfer ke bank lain 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih BNC sebagai nama bank penerima 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan No. VA sebagai rekening penerima 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Konfirmasi informasi transfer 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukkan PIN 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Transaksi selesai 
+                                 </li>
+                               </ul>"
+GERAI RETAIL,Alfamart,https://payment.tiketux.com/image/payment_v2/alfamart.png,CARA PEMBAYARAN MENGGUNAKAN Alfamart,"<li>
+                               Pembayaran dapat dilakukan melalui Seluruh Gerai Alfamart. 
+                              </li>
+                                                            <li>
+                               Anda akan mendapatkan Kode Pembayaran. 
+                              </li>
+                                                            <li>
+                               Catat Kode Pembayaran yang tertera. 
+                              </li>
+                                                            <li>
+                               Silahkan pergi ke gerai Alfamart terdekat dan bayar kepada kasir dengan menyebutkan ""Pembayaran Tiketux.com"" 
+                              </li>
+                                                            <li>
+                               Silahkan berikan kode pembayaran yang anda dapat pada saat pemesanan. 
+                              </li>
+                                                            <li>
+                               Pastikan Nama dan Jumlah bayar yang disebutkan petugas kasir Alfamart sesuai dengan pemesan anda. 
+                              </li>
+                                                            <li>
+                               Kasir akan melakukan proses pembayaran, sampai mencetak struk. 
+                              </li>
+                                                            <li>
+                               Simpan struk yang dicetak di kasir Alfamart sebagai bukti pembayaran anda. 
+                              </li>"
+GERAI RETAIL,Indomaret,https://payment.tiketux.com/image/payment_v2/indomaret-isaku-2.png,CARA PEMBAYARAN MENGGUNAKAN Indomaret,"<li>
+                               Pembayaran dapat dilakukan melalui Seluruh Gerai Indomaret(Kasir), i-Kios dan i-Saku. 
+                              </li>
+                                                            <li>
+                               Anda akan mendapatkan Kode Pembayaran. 
+                              </li>
+                                                            <li>
+                               Catat Kode Pembayaran yang tertera. 
+                              </li>
+                                                                                                                           Pembayaran melalu Gerai Indomaret(Kasir)
+                                                              <ul>
+                                 <li>
+                                   Silahkan pergi ke gerai Indomaret terdekat dan bayar kepada kasir dengan menyebutkan “Pembayaran Tiketux.com“ 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Silahkan berikan kode pembayaran yang anda dapat pada saat pemesanan. 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pastikan Nama dan Jumlah bayar yang disebutkan petugas kasir Indomaret sesuai dengan pemesan anda. 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Kasir akan melakukan proses pembayaran, sampai mencetak struk. 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Simpan struk yang dicetak di kasir Indomaret sebagai bukti pembayaran anda. 
+                                 </li>
+                               </ul>
+                                                             
+                                                               Pembayaran melalu i-Kios
+                                                              <ul>
+                                 <li>
+                                   Kunjungi i-Kios Indomaret, lalu pilih PAYMENT POINT 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   pilih “E-Commerce“ 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih/cari produk dengan nama “Tiketux.com“ 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukan kode pembayaran yang anda dapat pada saat pemesanan. 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   pilih Bayar di Kasir, lalu lakukan pembayaran sesuai dengan nominal yang tertera 
+                                 </li>
+                               </ul>
+                                                             
+                                                               Pembayaran melalu i-Saku
+                                                              <ul>
+                                 <li>
+                                   Buka aplikasi i-saku di gadget Anda 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   pilih “Lihat Semua“ 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   pilih “E-Commerce“ 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Pilih/cari produk dengan nama “Tiketux.com“ 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   Masukan kode pembayaran yang anda dapat pada saat pemesanan. 
+                                 </li>
+                               </ul>
+                                                              <ul>
+                                 <li>
+                                   lakukan pembayaran sesuai dengan nominal yang tertera 
+                                 </li>
+                               </ul>"
